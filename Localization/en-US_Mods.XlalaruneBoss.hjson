@@ -1,0 +1,37 @@
+NPCs.XRPrimary.DisplayName: XR Primary
+
+Items: {
+	OvergrownGPU: {
+		DisplayName: Overgrown GPU
+		Tooltip:
+			'''
+			Summons XR Primary.
+			WARNING: This fight may not be good if you are sensitive to flashing lights or sounds.
+			'''
+	}
+
+	XlalaruneCore: {
+		DisplayName: Xlalarune Core
+		Tooltip: Enjoy the benefits of an internal GPU to handle your worries.
+	}
+
+	XlalaruneCortex: {
+		DisplayName: Xlalarune Cortex
+		Tooltip: The emotional eye displays take a bit of getting used to.
+	}
+
+	XlalaruneGreenery: {
+		DisplayName: Xlalarune Greenery
+		Tooltip: Wow! You're a plant from the waist down.
+	}
+
+	XRPrimaryBossBag: {
+		DisplayName: XR Primary Boss Bag
+		Tooltip: ""
+	}
+
+	FoldAndWise: {
+		DisplayName: Fold and Wise
+		Tooltip: Grants immunity from getting 'Guitared' when fighting XR Primary.
+	}
+}

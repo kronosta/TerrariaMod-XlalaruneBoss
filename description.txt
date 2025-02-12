@@ -1,0 +1,6 @@
+This mod adds a new boss named XR Primary, based off a fictional species I designed based off an AI model I trained that turned out slightly wrong but in a really cool-looking way.
+
+This boss fight is partially bullet hell but has some weird mechanics that boss fights don't typically use.
+
+Because of these mechanics, until you equip the Fold and Wise accessory, I would suggest you use spare weapons to fight,
+lest you get "Guitared".
